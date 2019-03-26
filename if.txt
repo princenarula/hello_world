@@ -1,0 +1,8 @@
+if free disk < 10%
+then
+do this code
+else if free disk between 10-50%
+do this code
+else
+do this instead
+fi
